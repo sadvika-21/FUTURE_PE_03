@@ -1,16 +1,23 @@
-Which product or business do you want the UGC ads to be about?
+ # AI SEO Blog & Content Cluster Generator for Business Websites
 
-Choose one:
+> **Future Interns – Prompt Engineering Internship (Task 3)**
 
-🥤 EcoGlow Stainless Steel Water Bottle (the example we've been using)
-☕ Coffee Shop
-💄 Beauty Product
-📱 Mobile App
-👕 Clothing Brand
-💻 SaaS Product
-🍽️ Restaurant
-🧴 Skincare Product
-🍫 Food Product
-Any real business or product of your choice
+## Project Overview
 
-I recommend choosing a real product or business. That will make your repository more authentic and better aligned with the internship requirement of creating content for a "real product or business."
+This project demonstrates how Prompt Engineering can be used to generate SEO-optimized blog content and content clusters for business websites using Artificial Intelligence.
+
+The repository contains structured prompts, keyword research, blog outlines, long-form blog content, internal linking strategies, and content clusters to improve search engine visibility and user engagement.
+
+---
+
+## Objectives
+
+* Design structured SEO prompts
+* Generate keyword research
+* Create SEO-friendly blog outlines
+* Generate long-form SEO blogs
+* Create topic clusters
+* Develop internal linking strategies
+* Improve website search rankings using AI-generated content
+
+--- 
